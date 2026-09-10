@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rita Kendi 👋🏾</h1>
 
 <h3 align="center">
-Salesforce Developer • Software Engineer • Cloud & Kubernetes Enthusiast
+Salesforce Developer • Software Engineer • DevOps
 </h3>
 
 <p align="center">
@@ -16,16 +16,19 @@ Salesforce Developer • Software Engineer • Cloud & Kubernetes Enthusiast
 
 I build technology that turns real-world problems into practical solutions.
 
-I'm a Salesforce Developer with a software engineering background, experienced
-in building and maintaining Salesforce solutions, automating workflows,
-working with APIs and integrations, and collaborating with teams to deliver
-reliable products.
+I'm a software engineer with experience building technology for real-world business problems, 
+with a background spanning Salesforce development, FinTech, automation, and software engineering.
 
-I'm currently expanding deeper into cloud-native technologies, Kubernetes,
-Python, automation, and DevOps.
+I've worked as a Salesforce Developer building and maintaining solutions, automating business processes, 
+working with APIs and integrations, troubleshooting production issues, and collaborating with teams to deliver reliable products.
 
-I enjoy understanding how things work beneath the surface — and then finding
-ways to make them work better.
+My engineering journey is now expanding deeper into DevOps and cloud-native engineering.
+
+I'm building hands-on experience with Linux, Docker, Kubernetes, CI/CD, cloud infrastructure, 
+Python automation, and cloud-native technologies — with a focus on understanding not just how applications are built, 
+but how they are deployed, automated, scaled, and operated.
+
+I enjoy taking things apart to understand how they work, solving problems, and turning what I learn into practical projects.
 
 ---
 
