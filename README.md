@@ -5,9 +5,9 @@ Salesforce Developer • Software Engineer • Cloud & Kubernetes Enthusiast
 </h3>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/kendi-rita/]">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/kendi-rita/">LinkedIn</a>
   •
-  <a href="[https://github.com/ritakendi]">GitHub</a>
+  <a href="https://github.com/ritakendi">GitHub</a>
 </p>
 
 ---
