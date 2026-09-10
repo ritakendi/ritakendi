@@ -52,5 +52,3 @@ Kubernetes • Docker • GitHub Actions • Linux
 🐳 Docker & Containerization
 ⚙️ CI/CD & DevOps Automation
 ☁️ Cloud Infrastructure
-🐍 Python for Automation
-☁️ Cloud Infrastructure
