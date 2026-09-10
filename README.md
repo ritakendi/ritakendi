@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Rita Kendi 👋🏾</h1>
 
-<!--
-**ritakendi/ritakendi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Salesforce Developer • Software Engineer • Cloud & Kubernetes Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+  •
+  <a href="YOUR_GITHUB_URL">GitHub</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👩🏾‍💻 About Me
+
+I build technology that turns real-world problems into practical solutions.
+
+I'm a Salesforce Developer with a software engineering background, experienced
+in building and maintaining Salesforce solutions, automating workflows,
+working with APIs and integrations, and collaborating with teams to deliver
+reliable products.
+
+I'm currently expanding deeper into cloud-native technologies, Kubernetes,
+Python, automation, and DevOps.
+
+I enjoy understanding how things work beneath the surface — and then finding
+ways to make them work better.
+
+---
+
+### 🛠️ Tech Stack
+
+**Salesforce**
+Apex • Lightning Web Components • SOQL • Flows • Visualforce
+
+**Software Engineering**
+Python • JavaScript • SQL • APIs • Git
+
+**Cloud & DevOps**
+Kubernetes • Docker • GitHub Actions • Linux
+
+---
+
+### 🌱 Currently Learning
+
+☸️ Kubernetes & Cloud Native  
+🐍 Python  
+⚙️ DevOps & Automation  
+☁️ Cloud Infrastructure
