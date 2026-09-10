@@ -47,6 +47,10 @@ Kubernetes • Docker • GitHub Actions • Linux
 
 ### 🌱 Currently Learning
 
-☸️ Kubernetes & Cloud Native   
-⚙️ DevOps & Automation  
+🤖 Agentforce & AI on Salesforce
+☸️ Kubernetes & Cloud Native
+🐳 Docker & Containerization
+⚙️ CI/CD & DevOps Automation
+☁️ Cloud Infrastructure
+🐍 Python for Automation
 ☁️ Cloud Infrastructure
