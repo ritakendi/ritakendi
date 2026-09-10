@@ -5,9 +5,9 @@ Salesforce Developer • Software Engineer • Cloud & Kubernetes Enthusiast
 </h3>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/kendi-rita/)">LinkedIn</a>
   •
-  <a href="YOUR_GITHUB_URL">GitHub</a>
+  <a href="[YOUR_GITHUB_URL](https://github.com/ritakendi)">GitHub</a>
 </p>
 
 ---
@@ -44,7 +44,6 @@ Kubernetes • Docker • GitHub Actions • Linux
 
 ### 🌱 Currently Learning
 
-☸️ Kubernetes & Cloud Native  
-🐍 Python  
+☸️ Kubernetes & Cloud Native   
 ⚙️ DevOps & Automation  
 ☁️ Cloud Infrastructure
